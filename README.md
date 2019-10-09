@@ -1,5 +1,7 @@
-## Code for The Role of Embedding Complecity in Domain-invariant Representations
-The PyTorch code for the proposed algorithm Multilayer Divergence Minimization (MDM).
+## The Role of Embedding Complexity in Domain-invariant Representations
+This repository is the official PyTorch implementation of the algorithm Multilayer Divergence Minimization (MDM) proposed in the following paper:   
+
+Ching-Yao Chuang, Antonio Torralba, Stefanie Jegelka. The Role of Embedding Complecity in Domain-invariant Representations
 
 
 #### Environment
