@@ -12,8 +12,6 @@ Ching-Yao Chuang, Antonio Torralba, Stefanie Jegelka. The Role of Embedding Comp
 Download the MNIST-M dataset from [Google Drive](https://drive.google.com/open?id=1iij6oj3akjJtaVe9eV-6UnRPJSO4GpdH) and unzip it. 
 ```
 cd dataset
-mkdir mnist_m
-cd mnist_m
 tar -zvxf mnist_m.tar.gz
 ```
 
